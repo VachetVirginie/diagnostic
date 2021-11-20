@@ -1,84 +1,15 @@
 <template>
   <nav id="nav" class="sm:container sm:mx-auto">
     <!-- Header start -->
-    <div
-      class="
-        z-10
-        max-w-screen-lg
-        xl:max-w-screen-xl
-        block
-        sm:flex sm:justify-between sm:items-center
-        py-6
-      "
-    >
-      <!-- Header menu links and small screen humberger menu start -->
-      <div class="flex justify-between items-center px-6 sm:px-0">
-        <!-- Header logos start -->
-        <div>
-        </div>
-        <!-- Header logos end -->
-
-        <!-- Theme switcher small screen start -->
-        <button
-          @click="themeSwticher"
-          class="
-            sm:hidden
-            ml-8
-            bg-primary-light
-            dark:bg-ternary-dark
-            px-2
-            py-1.5
-            sm:px-3 sm:py-2
-            shadow-sm
-            rounded-xl
-            cursor-pointer
-          "
-        >
-          <i
-            v-if="$colorMode.value == 'dark'"
-            v-html="iconSvg"
-            class="text-gray-200 hover:text-gray-50 w-5"
-          ></i>
-          <i
-            v-else
-            v-html="iconSvg"
-            class="
-              text-liText-ternary-dark
-              hover:text-gray-400
-              dark:text-liText-ternary-light
-              dark:hover:text-liBorder-primary-light
-              w-5
-            "
-          ></i>
-        </button>
-        <!-- Theme switcher small screen end -->
-
-        <!-- Small screen humberger menu start -->
-        <div class="sm:hidden">
-        </div>
-        <!-- Small screen humberger menu end -->
-      </div>
-      <!-- Header menu links and small screen humberger menu end -->
-
-      <!-- Header links start -->
-      <AppNavigation
-        :isOpen="isOpen"
-        :showModal="showModal"
-        :modal="modal"
-        :categories="categories"
-      />
-      <!-- Header links end -->
+    <div class="z-10 max-w-screen-lg xl:max-w-screen-xl block flex justify-between sm:items-center py-6">
+      <a class="text-indigo-500 inline-flex items-center text-lg">
+        <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M11 17l-5-5m0 0l5-5m-5 5h12" />
+        </svg>
+        <NuxtLink to="/">Home</NuxtLink>
+      </a>
 
       <!-- Header right section buttons start -->
-      <div
-        class="hidden sm:flex justify-between items-center flex-col md:flex-row"
-      >
-        <!-- Hire me button start -->
-        <div>
-        </div>
-        <!-- Hire me button end -->
-
-        <!-- Theme switcher largr screen start -->
         <button
           @click="themeSwticher"
           class="
