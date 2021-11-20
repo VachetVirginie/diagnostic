@@ -3,78 +3,91 @@
     "name": "about",
     "path": "/about",
     "component": "/Users/vivi./Dev/diagnostic/pages/about.vue",
-    "chunkName": "pages/about"
+    "chunkName": "pages/about",
+    "_name": "_f366e59a"
   },
   {
     "name": "boo",
     "path": "/boo",
     "component": "/Users/vivi./Dev/diagnostic/pages/boo/index.vue",
-    "chunkName": "pages/boo/index"
+    "chunkName": "pages/boo/index",
+    "_name": "_d9012e2a"
   },
   {
     "name": "contact",
     "path": "/contact",
     "component": "/Users/vivi./Dev/diagnostic/pages/contact.vue",
-    "chunkName": "pages/contact"
+    "chunkName": "pages/contact",
+    "_name": "_27dae0c6"
   },
   {
     "name": "five",
     "path": "/five",
     "component": "/Users/vivi./Dev/diagnostic/pages/five/index.vue",
-    "chunkName": "pages/five/index"
+    "chunkName": "pages/five/index",
+    "_name": "_2b44ab02"
   },
   {
     "name": "pedro",
     "path": "/pedro",
     "component": "/Users/vivi./Dev/diagnostic/pages/pedro/index.vue",
-    "chunkName": "pages/pedro/index"
+    "chunkName": "pages/pedro/index",
+    "_name": "_983ffa96"
   },
   {
     "name": "projects",
     "path": "/projects",
     "component": "/Users/vivi./Dev/diagnostic/pages/projects/index.vue",
-    "chunkName": "pages/projects/index"
+    "chunkName": "pages/projects/index",
+    "_name": "_57b76d72"
   },
   {
     "name": "pedro-ia",
     "path": "/pedro/ia",
     "component": "/Users/vivi./Dev/diagnostic/pages/pedro/ia/index.vue",
-    "chunkName": "pages/pedro/ia/index"
+    "chunkName": "pages/pedro/ia/index",
+    "_name": "_6c70ae08"
   },
   {
     "name": "pedro-interface",
     "path": "/pedro/interface",
     "component": "/Users/vivi./Dev/diagnostic/pages/pedro/interface/index.vue",
-    "chunkName": "pages/pedro/interface/index"
+    "chunkName": "pages/pedro/interface/index",
+    "_name": "_51011f9f"
   },
   {
     "name": "pedro-server",
     "path": "/pedro/server",
     "component": "/Users/vivi./Dev/diagnostic/pages/pedro/server/index.vue",
-    "chunkName": "pages/pedro/server/index"
+    "chunkName": "pages/pedro/server/index",
+    "_name": "_f13f381a"
   },
   {
     "name": "pedro-interface-butNonValide",
     "path": "/pedro/interface/butNonValide",
     "component": "/Users/vivi./Dev/diagnostic/pages/pedro/interface/butNonValide.vue",
-    "chunkName": "pages/pedro/interface/butNonValide"
+    "chunkName": "pages/pedro/interface/butNonValide",
+    "_name": "_e2ea2e50"
   },
   {
     "name": "pedro-interface-pageblanche",
     "path": "/pedro/interface/pageblanche",
     "component": "/Users/vivi./Dev/diagnostic/pages/pedro/interface/pageblanche.vue",
-    "chunkName": "pages/pedro/interface/pageblanche"
+    "chunkName": "pages/pedro/interface/pageblanche",
+    "_name": "_093ebe32"
   },
   {
     "name": "projects-id",
     "path": "/projects/:id",
     "component": "/Users/vivi./Dev/diagnostic/pages/projects/_id.vue",
-    "chunkName": "pages/projects/_id"
+    "chunkName": "pages/projects/_id",
+    "_name": "_18f1f16f"
   },
   {
     "name": "index",
     "path": "/",
     "component": "/Users/vivi./Dev/diagnostic/pages/index.vue",
-    "chunkName": "pages/index"
+    "chunkName": "pages/index",
+    "_name": "_b3f73010"
   }
 ]
