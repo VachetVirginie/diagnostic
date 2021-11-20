@@ -17,7 +17,7 @@
           </div>
           <div class="flex-grow">
             <p class="leading-relaxed text-base">Vous vous retrouvez face a une magnifique page blanche.</p>
-            <a class="mt-3 text-indigo-500 inline-flex items-center"> <NuxtLink to="/pedro/interface/pageBlanche">Learn More</NuxtLink>
+            <a class="mt-3 text-indigo-500 inline-flex items-center"> <NuxtLink to="/pedro/interface/pageBlanche">En savoir plus</NuxtLink>
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-4 h-4 ml-2" viewBox="0 0 24 24">
                 <path d="M5 12h14M12 5l7 7-7 7"></path>
               </svg>
@@ -37,7 +37,7 @@
           </div>
           <div class="flex-grow">
             <p class="leading-relaxed text-base">Les buts inscrits ne sont pas valides en bdd</p>
-            <a class="mt-3 text-indigo-500 inline-flex items-center"><NuxtLink to="/pedro/interface/butNonValide">Learn More</NuxtLink>
+            <a class="mt-3 text-indigo-500 inline-flex items-center"><NuxtLink to="/pedro/interface/butNonValide">En savoir plus</NuxtLink>
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-4 h-4 ml-2" viewBox="0 0 24 24">
                 <path d="M5 12h14M12 5l7 7-7 7"></path>
               </svg>
