@@ -2,92 +2,79 @@
   {
     "name": "about",
     "path": "/about",
-    "component": "/Users/vivi./Dev/nuxtjs-tailwindcss-portfolio/pages/about.vue",
-    "chunkName": "pages/about",
-    "_name": "_629e4871"
+    "component": "/Users/vivi./Dev/diagnostic/pages/about.vue",
+    "chunkName": "pages/about"
   },
   {
     "name": "boo",
     "path": "/boo",
-    "component": "/Users/vivi./Dev/nuxtjs-tailwindcss-portfolio/pages/boo/index.vue",
-    "chunkName": "pages/boo/index",
-    "_name": "_2de55529"
+    "component": "/Users/vivi./Dev/diagnostic/pages/boo/index.vue",
+    "chunkName": "pages/boo/index"
   },
   {
     "name": "contact",
     "path": "/contact",
-    "component": "/Users/vivi./Dev/nuxtjs-tailwindcss-portfolio/pages/contact.vue",
-    "chunkName": "pages/contact",
-    "_name": "_36aac484"
+    "component": "/Users/vivi./Dev/diagnostic/pages/contact.vue",
+    "chunkName": "pages/contact"
   },
   {
     "name": "five",
     "path": "/five",
-    "component": "/Users/vivi./Dev/nuxtjs-tailwindcss-portfolio/pages/five/index.vue",
-    "chunkName": "pages/five/index",
-    "_name": "_c69573fe"
+    "component": "/Users/vivi./Dev/diagnostic/pages/five/index.vue",
+    "chunkName": "pages/five/index"
   },
   {
     "name": "pedro",
     "path": "/pedro",
-    "component": "/Users/vivi./Dev/nuxtjs-tailwindcss-portfolio/pages/pedro/index.vue",
-    "chunkName": "pages/pedro/index",
-    "_name": "_4c7bd773"
+    "component": "/Users/vivi./Dev/diagnostic/pages/pedro/index.vue",
+    "chunkName": "pages/pedro/index"
   },
   {
     "name": "projects",
     "path": "/projects",
-    "component": "/Users/vivi./Dev/nuxtjs-tailwindcss-portfolio/pages/projects/index.vue",
-    "chunkName": "pages/projects/index",
-    "_name": "_125e53c9"
+    "component": "/Users/vivi./Dev/diagnostic/pages/projects/index.vue",
+    "chunkName": "pages/projects/index"
   },
   {
     "name": "pedro-ia",
     "path": "/pedro/ia",
-    "component": "/Users/vivi./Dev/nuxtjs-tailwindcss-portfolio/pages/pedro/ia/index.vue",
-    "chunkName": "pages/pedro/ia/index",
-    "_name": "_aaaa8eec"
+    "component": "/Users/vivi./Dev/diagnostic/pages/pedro/ia/index.vue",
+    "chunkName": "pages/pedro/ia/index"
   },
   {
     "name": "pedro-interface",
     "path": "/pedro/interface",
-    "component": "/Users/vivi./Dev/nuxtjs-tailwindcss-portfolio/pages/pedro/interface/index.vue",
-    "chunkName": "pages/pedro/interface/index",
-    "_name": "_09a09edd"
+    "component": "/Users/vivi./Dev/diagnostic/pages/pedro/interface/index.vue",
+    "chunkName": "pages/pedro/interface/index"
   },
   {
     "name": "pedro-server",
     "path": "/pedro/server",
-    "component": "/Users/vivi./Dev/nuxtjs-tailwindcss-portfolio/pages/pedro/server/index.vue",
-    "chunkName": "pages/pedro/server/index",
-    "_name": "_a6a54516"
+    "component": "/Users/vivi./Dev/diagnostic/pages/pedro/server/index.vue",
+    "chunkName": "pages/pedro/server/index"
   },
   {
     "name": "pedro-interface-butNonValide",
     "path": "/pedro/interface/butNonValide",
-    "component": "/Users/vivi./Dev/nuxtjs-tailwindcss-portfolio/pages/pedro/interface/butNonValide.vue",
-    "chunkName": "pages/pedro/interface/butNonValide",
-    "_name": "_da51304c"
+    "component": "/Users/vivi./Dev/diagnostic/pages/pedro/interface/butNonValide.vue",
+    "chunkName": "pages/pedro/interface/butNonValide"
   },
   {
     "name": "pedro-interface-pageblanche",
     "path": "/pedro/interface/pageblanche",
-    "component": "/Users/vivi./Dev/nuxtjs-tailwindcss-portfolio/pages/pedro/interface/pageblanche.vue",
-    "chunkName": "pages/pedro/interface/pageblanche",
-    "_name": "_f0318cb6"
+    "component": "/Users/vivi./Dev/diagnostic/pages/pedro/interface/pageblanche.vue",
+    "chunkName": "pages/pedro/interface/pageblanche"
   },
   {
     "name": "projects-id",
     "path": "/projects/:id",
-    "component": "/Users/vivi./Dev/nuxtjs-tailwindcss-portfolio/pages/projects/_id.vue",
-    "chunkName": "pages/projects/_id",
-    "_name": "_d85e971e"
+    "component": "/Users/vivi./Dev/diagnostic/pages/projects/_id.vue",
+    "chunkName": "pages/projects/_id"
   },
   {
     "name": "index",
     "path": "/",
-    "component": "/Users/vivi./Dev/nuxtjs-tailwindcss-portfolio/pages/index.vue",
-    "chunkName": "pages/index",
-    "_name": "_fb53b994"
+    "component": "/Users/vivi./Dev/diagnostic/pages/index.vue",
+    "chunkName": "pages/index"
   }
 ]

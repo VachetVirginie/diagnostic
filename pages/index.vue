@@ -9,7 +9,7 @@
         </div>
         <h2 class="title-font text-2xl font-medium text-primary-dark dark:text-primary-light mt-6 mb-3">Boo</h2>
                 <p class="leading-relaxed  text-primary-dark dark:text-primary-light text-primary-light dark:text-primary-light">Vous rencontrez un probleme avec l'application gèrant?</p>
-        <button class="flex mx-auto mt-6 text-primary-light dark:text-primary-light bg-black border-0 py-2 px-5 focus:outline-none hover:bg-indigo-600 rounded"> <NuxtLink to="/boo">Boo</NuxtLink></button>
+        <button class="flex mx-auto mt-6 text-primary-light dark:text-primary-light bg-indigo-600 border-0 py-2 px-5 focus:outline-none hover:bg-indigo-700 rounded"> <NuxtLink to="/boo">Boo</NuxtLink></button>
       </div>
       <div class="sm:w-1/2 mb-10 px-4">
         <div class="rounded-lg h-64 overflow-hidden">
@@ -17,20 +17,20 @@
         </div>
                 <h2 class="title-font text-2xl font-medium text-primary-dark dark:text-primary-light mt-6 mb-3">Le Five</h2>
                 <p class="leading-relaxed text-primary-dark dark:text-primary-light text-primary-light dark:text-primary-light">Vous rencontrez un probleme avec le Five?</p>
-        <button class="flex mx-auto mt-6 text-primary-light dark:text-primary-light mb-5 bg-black border-0 py-2 px-5 focus:outline-none hover:bg-indigo-600 rounded"> <NuxtLink to="/five">Five</NuxtLink></button>
-      </div>      
+        <button class="flex mx-auto mt-6 text-primary-light dark:text-primary-light mb-5 bg-indigo-600 border-0 py-2 px-5 focus:outline-none hover:bg-indigo-700 rounded"> <NuxtLink to="/five">Five</NuxtLink></button>
+      </div>
       <div class="sm:w-1/2 mb-10 px-4">
         <div class="rounded-lg h-64 overflow-hidden">
                 <img alt="content" class="object-cover object-center h-full w-full" src="https://raw.githubusercontent.com/ngtvexperience/Pedro/master/frontend/static/img/background/default.jpg?token=AGJJEP4SBXPFDIRGQV7YGY3BT6M4W">
         </div>
                 <h2 class="title-font text-2xl font-medium text-primary-dark dark:text-primary-light mt-6 mb-3">Pedro</h2>
                 <p class="leading-relaxed text-primary-dark dark:text-primary-light text-primary-light dark:text-primary-light">Vous rencontrez un probleme avec l'application du centre?</p>
-        <button class="flex mx-auto mt-6 text-primary-light dark:text-primary-light mb-5 bg-black border-0 py-2 px-5 focus:outline-none hover:bg-indigo-600 rounded"> <NuxtLink to="/pedro">Pedro</NuxtLink></button>
+        <button class="flex mx-auto mt-6 text-primary-light dark:text-primary-light mb-5 bg-indigo-600 border-0 py-2 px-5 focus:outline-none hover:bg-indigo-600 rounded"> <NuxtLink to="/pedro">Pedro</NuxtLink></button>
       </div>
     </div>
   </div>
 </section>
-  </div>  
+  </div>
 </template>
 
 <script>

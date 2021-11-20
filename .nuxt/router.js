@@ -4,19 +4,19 @@ import { normalizeURL, decode } from 'ufo'
 import { interopDefault } from './utils'
 import scrollBehavior from './router.scrollBehavior.js'
 
-const _629e4871 = () => interopDefault(import('../pages/about.vue' /* webpackChunkName: "pages/about" */))
-const _2de55529 = () => interopDefault(import('../pages/boo/index.vue' /* webpackChunkName: "pages/boo/index" */))
-const _36aac484 = () => interopDefault(import('../pages/contact.vue' /* webpackChunkName: "pages/contact" */))
-const _c69573fe = () => interopDefault(import('../pages/five/index.vue' /* webpackChunkName: "pages/five/index" */))
-const _4c7bd773 = () => interopDefault(import('../pages/pedro/index.vue' /* webpackChunkName: "pages/pedro/index" */))
-const _125e53c9 = () => interopDefault(import('../pages/projects/index.vue' /* webpackChunkName: "pages/projects/index" */))
-const _aaaa8eec = () => interopDefault(import('../pages/pedro/ia/index.vue' /* webpackChunkName: "pages/pedro/ia/index" */))
-const _09a09edd = () => interopDefault(import('../pages/pedro/interface/index.vue' /* webpackChunkName: "pages/pedro/interface/index" */))
-const _a6a54516 = () => interopDefault(import('../pages/pedro/server/index.vue' /* webpackChunkName: "pages/pedro/server/index" */))
-const _da51304c = () => interopDefault(import('../pages/pedro/interface/butNonValide.vue' /* webpackChunkName: "pages/pedro/interface/butNonValide" */))
-const _f0318cb6 = () => interopDefault(import('../pages/pedro/interface/pageblanche.vue' /* webpackChunkName: "pages/pedro/interface/pageblanche" */))
-const _d85e971e = () => interopDefault(import('../pages/projects/_id.vue' /* webpackChunkName: "pages/projects/_id" */))
-const _fb53b994 = () => interopDefault(import('../pages/index.vue' /* webpackChunkName: "pages/index" */))
+const _f366e59a = () => interopDefault(import('../pages/about.vue' /* webpackChunkName: "pages/about" */))
+const _d9012e2a = () => interopDefault(import('../pages/boo/index.vue' /* webpackChunkName: "pages/boo/index" */))
+const _27dae0c6 = () => interopDefault(import('../pages/contact.vue' /* webpackChunkName: "pages/contact" */))
+const _2b44ab02 = () => interopDefault(import('../pages/five/index.vue' /* webpackChunkName: "pages/five/index" */))
+const _983ffa96 = () => interopDefault(import('../pages/pedro/index.vue' /* webpackChunkName: "pages/pedro/index" */))
+const _57b76d72 = () => interopDefault(import('../pages/projects/index.vue' /* webpackChunkName: "pages/projects/index" */))
+const _6c70ae08 = () => interopDefault(import('../pages/pedro/ia/index.vue' /* webpackChunkName: "pages/pedro/ia/index" */))
+const _51011f9f = () => interopDefault(import('../pages/pedro/interface/index.vue' /* webpackChunkName: "pages/pedro/interface/index" */))
+const _f13f381a = () => interopDefault(import('../pages/pedro/server/index.vue' /* webpackChunkName: "pages/pedro/server/index" */))
+const _e2ea2e50 = () => interopDefault(import('../pages/pedro/interface/butNonValide.vue' /* webpackChunkName: "pages/pedro/interface/butNonValide" */))
+const _093ebe32 = () => interopDefault(import('../pages/pedro/interface/pageblanche.vue' /* webpackChunkName: "pages/pedro/interface/pageblanche" */))
+const _18f1f16f = () => interopDefault(import('../pages/projects/_id.vue' /* webpackChunkName: "pages/projects/_id" */))
+const _b3f73010 = () => interopDefault(import('../pages/index.vue' /* webpackChunkName: "pages/index" */))
 
 const emptyFn = () => {}
 
@@ -31,55 +31,55 @@ export const routerOptions = {
 
   routes: [{
     path: "/about",
-    component: _629e4871,
+    component: _f366e59a,
     name: "about"
   }, {
     path: "/boo",
-    component: _2de55529,
+    component: _d9012e2a,
     name: "boo"
   }, {
     path: "/contact",
-    component: _36aac484,
+    component: _27dae0c6,
     name: "contact"
   }, {
     path: "/five",
-    component: _c69573fe,
+    component: _2b44ab02,
     name: "five"
   }, {
     path: "/pedro",
-    component: _4c7bd773,
+    component: _983ffa96,
     name: "pedro"
   }, {
     path: "/projects",
-    component: _125e53c9,
+    component: _57b76d72,
     name: "projects"
   }, {
     path: "/pedro/ia",
-    component: _aaaa8eec,
+    component: _6c70ae08,
     name: "pedro-ia"
   }, {
     path: "/pedro/interface",
-    component: _09a09edd,
+    component: _51011f9f,
     name: "pedro-interface"
   }, {
     path: "/pedro/server",
-    component: _a6a54516,
+    component: _f13f381a,
     name: "pedro-server"
   }, {
     path: "/pedro/interface/butNonValide",
-    component: _da51304c,
+    component: _e2ea2e50,
     name: "pedro-interface-butNonValide"
   }, {
     path: "/pedro/interface/pageblanche",
-    component: _f0318cb6,
+    component: _093ebe32,
     name: "pedro-interface-pageblanche"
   }, {
     path: "/projects/:id",
-    component: _d85e971e,
+    component: _18f1f16f,
     name: "projects-id"
   }, {
     path: "/",
-    component: _fb53b994,
+    component: _b3f73010,
     name: "index"
   }],
 
