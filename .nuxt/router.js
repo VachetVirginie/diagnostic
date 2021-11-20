@@ -9,13 +9,11 @@ const _d9012e2a = () => interopDefault(import('../pages/boo/index.vue' /* webpac
 const _27dae0c6 = () => interopDefault(import('../pages/contact.vue' /* webpackChunkName: "pages/contact" */))
 const _2b44ab02 = () => interopDefault(import('../pages/five/index.vue' /* webpackChunkName: "pages/five/index" */))
 const _983ffa96 = () => interopDefault(import('../pages/pedro/index.vue' /* webpackChunkName: "pages/pedro/index" */))
-const _57b76d72 = () => interopDefault(import('../pages/projects/index.vue' /* webpackChunkName: "pages/projects/index" */))
 const _6c70ae08 = () => interopDefault(import('../pages/pedro/ia/index.vue' /* webpackChunkName: "pages/pedro/ia/index" */))
 const _51011f9f = () => interopDefault(import('../pages/pedro/interface/index.vue' /* webpackChunkName: "pages/pedro/interface/index" */))
 const _f13f381a = () => interopDefault(import('../pages/pedro/server/index.vue' /* webpackChunkName: "pages/pedro/server/index" */))
 const _e2ea2e50 = () => interopDefault(import('../pages/pedro/interface/butNonValide.vue' /* webpackChunkName: "pages/pedro/interface/butNonValide" */))
 const _093ebe32 = () => interopDefault(import('../pages/pedro/interface/pageblanche.vue' /* webpackChunkName: "pages/pedro/interface/pageblanche" */))
-const _18f1f16f = () => interopDefault(import('../pages/projects/_id.vue' /* webpackChunkName: "pages/projects/_id" */))
 const _b3f73010 = () => interopDefault(import('../pages/index.vue' /* webpackChunkName: "pages/index" */))
 
 const emptyFn = () => {}
@@ -50,10 +48,6 @@ export const routerOptions = {
     component: _983ffa96,
     name: "pedro"
   }, {
-    path: "/projects",
-    component: _57b76d72,
-    name: "projects"
-  }, {
     path: "/pedro/ia",
     component: _6c70ae08,
     name: "pedro-ia"
@@ -73,10 +67,6 @@ export const routerOptions = {
     path: "/pedro/interface/pageblanche",
     component: _093ebe32,
     name: "pedro-interface-pageblanche"
-  }, {
-    path: "/projects/:id",
-    component: _18f1f16f,
-    name: "projects-id"
   }, {
     path: "/",
     component: _b3f73010,

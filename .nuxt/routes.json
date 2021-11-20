@@ -35,13 +35,6 @@
     "_name": "_983ffa96"
   },
   {
-    "name": "projects",
-    "path": "/projects",
-    "component": "/Users/vivi./Dev/diagnostic/pages/projects/index.vue",
-    "chunkName": "pages/projects/index",
-    "_name": "_57b76d72"
-  },
-  {
     "name": "pedro-ia",
     "path": "/pedro/ia",
     "component": "/Users/vivi./Dev/diagnostic/pages/pedro/ia/index.vue",
@@ -75,13 +68,6 @@
     "component": "/Users/vivi./Dev/diagnostic/pages/pedro/interface/pageblanche.vue",
     "chunkName": "pages/pedro/interface/pageblanche",
     "_name": "_093ebe32"
-  },
-  {
-    "name": "projects-id",
-    "path": "/projects/:id",
-    "component": "/Users/vivi./Dev/diagnostic/pages/projects/_id.vue",
-    "chunkName": "pages/projects/_id",
-    "_name": "_18f1f16f"
   },
   {
     "name": "index",
