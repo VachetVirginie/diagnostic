@@ -44,7 +44,6 @@
           ></i>
         </button>
       </div>
-    </div>
   </nav>
 </template>
 
