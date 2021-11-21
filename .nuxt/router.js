@@ -4,17 +4,16 @@ import { normalizeURL, decode } from 'ufo'
 import { interopDefault } from './utils'
 import scrollBehavior from './router.scrollBehavior.js'
 
-const _f366e59a = () => interopDefault(import('../pages/about.vue' /* webpackChunkName: "pages/about" */))
 const _d9012e2a = () => interopDefault(import('../pages/boo/index.vue' /* webpackChunkName: "pages/boo/index" */))
-const _27dae0c6 = () => interopDefault(import('../pages/contact.vue' /* webpackChunkName: "pages/contact" */))
+const _b3f73010 = () => interopDefault(import('../pages/index.vue' /* webpackChunkName: "pages/index" */))
 const _2b44ab02 = () => interopDefault(import('../pages/five/index.vue' /* webpackChunkName: "pages/five/index" */))
+const _504093ef = () => interopDefault(import('../pages/mobile/index.vue' /* webpackChunkName: "pages/mobile/index" */))
 const _983ffa96 = () => interopDefault(import('../pages/pedro/index.vue' /* webpackChunkName: "pages/pedro/index" */))
 const _6c70ae08 = () => interopDefault(import('../pages/pedro/ia/index.vue' /* webpackChunkName: "pages/pedro/ia/index" */))
 const _51011f9f = () => interopDefault(import('../pages/pedro/interface/index.vue' /* webpackChunkName: "pages/pedro/interface/index" */))
 const _f13f381a = () => interopDefault(import('../pages/pedro/server/index.vue' /* webpackChunkName: "pages/pedro/server/index" */))
 const _e2ea2e50 = () => interopDefault(import('../pages/pedro/interface/butNonValide.vue' /* webpackChunkName: "pages/pedro/interface/butNonValide" */))
 const _093ebe32 = () => interopDefault(import('../pages/pedro/interface/pageblanche.vue' /* webpackChunkName: "pages/pedro/interface/pageblanche" */))
-const _b3f73010 = () => interopDefault(import('../pages/index.vue' /* webpackChunkName: "pages/index" */))
 
 const emptyFn = () => {}
 
@@ -28,49 +27,85 @@ export const routerOptions = {
   scrollBehavior,
 
   routes: [{
-    path: "/about",
-    component: _f366e59a,
-    name: "about"
-  }, {
     path: "/boo",
     component: _d9012e2a,
-    name: "boo"
+    name: "boo___fr"
   }, {
-    path: "/contact",
-    component: _27dae0c6,
-    name: "contact"
+    path: "/en",
+    component: _b3f73010,
+    name: "index___en"
   }, {
     path: "/five",
     component: _2b44ab02,
-    name: "five"
+    name: "five___fr"
+  }, {
+    path: "/mobile",
+    component: _504093ef,
+    name: "mobile___fr"
   }, {
     path: "/pedro",
     component: _983ffa96,
-    name: "pedro"
+    name: "pedro___fr"
+  }, {
+    path: "/en/boo",
+    component: _d9012e2a,
+    name: "boo___en"
+  }, {
+    path: "/en/five",
+    component: _2b44ab02,
+    name: "five___en"
+  }, {
+    path: "/en/mobile",
+    component: _504093ef,
+    name: "mobile___en"
+  }, {
+    path: "/en/pedro",
+    component: _983ffa96,
+    name: "pedro___en"
   }, {
     path: "/pedro/ia",
     component: _6c70ae08,
-    name: "pedro-ia"
+    name: "pedro-ia___fr"
   }, {
     path: "/pedro/interface",
     component: _51011f9f,
-    name: "pedro-interface"
+    name: "pedro-interface___fr"
   }, {
     path: "/pedro/server",
     component: _f13f381a,
-    name: "pedro-server"
+    name: "pedro-server___fr"
+  }, {
+    path: "/en/pedro/ia",
+    component: _6c70ae08,
+    name: "pedro-ia___en"
+  }, {
+    path: "/en/pedro/interface",
+    component: _51011f9f,
+    name: "pedro-interface___en"
+  }, {
+    path: "/en/pedro/server",
+    component: _f13f381a,
+    name: "pedro-server___en"
   }, {
     path: "/pedro/interface/butNonValide",
     component: _e2ea2e50,
-    name: "pedro-interface-butNonValide"
+    name: "pedro-interface-butNonValide___fr"
   }, {
     path: "/pedro/interface/pageblanche",
     component: _093ebe32,
-    name: "pedro-interface-pageblanche"
+    name: "pedro-interface-pageblanche___fr"
+  }, {
+    path: "/en/pedro/interface/butNonValide",
+    component: _e2ea2e50,
+    name: "pedro-interface-butNonValide___en"
+  }, {
+    path: "/en/pedro/interface/pageblanche",
+    component: _093ebe32,
+    name: "pedro-interface-pageblanche___en"
   }, {
     path: "/",
     component: _b3f73010,
-    name: "index"
+    name: "index___fr"
   }],
 
   fallback: false

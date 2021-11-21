@@ -1,0 +1,92 @@
+{
+   "_commons": {
+      "session": {
+         "find_session": {
+            "title": "Find a session.",
+            "text": "You cannot find a session."
+         }
+      },
+      "learn_more": "Learn more"
+   },
+   "_home": {
+      "boo": {
+          "text": "Do you have a problem with the manager application?"
+     },
+     "five": {
+         "text": "Are you having a problem with the Five?"
+     },
+     "pedro": {
+      "text": "Are you having a problem with Pedro?"
+  },
+  "mobile": {
+      "text": "Are you having a problem with the mobile application?"
+  }
+   },
+   "_boo": {
+      "title": "Problems on Boo.",
+      "competition": {
+          "title": "The competitions.",
+          "text": "You have a problem relating to competitions."
+      },
+      "user_rights": {
+          "title": "User rights.",
+          "text": "You encounter a problem relating to the rights of a user."
+      }
+  },
+  "_five": {
+   "title": "Problems on Five.",
+   "loader": {
+       "title": "The loader runs in a loop.",
+       "text": "An interface is locked on the loop loader."
+   },
+   "hightlight": {
+       "title": "HightLight Tv.",
+       "text": "You encounter a problem relating to hightLight Tv"
+   }
+},
+"_pedro": {
+   "title": "Problems on Pedro.",
+   "web_server": {
+      "title": "Web Server.",
+      "text": "You encounter a problem with the web server."
+  },
+  "interface": {
+      "title": "Interface.",
+      "text": "You encounter a problem on one of the interfaces."
+  },
+  "ia_server": {
+      "title": "IA Server.",
+      "text": "You are experiencing a problem with the AI server."
+  },
+  "problems": {
+   "title": "Interface problem.",
+      "white_page": {
+          "title": "White page.",
+          "text": "You find yourself facing a beautiful white page.",
+              "solution": {
+                  "step 1": ""
+              }
+      },
+      "non_validate_goal": {
+          "title": "Goal not validated.",
+          "text": "Goals entered are not valid ed in bdd",
+              "solution": {
+                  "step 1": ""
+              }
+      }
+
+  }
+},
+"_mobile": {
+   "title": "Problems on Boo.",
+   "competition": {
+       "title": "The competitions.",
+       "text": "You have a problem relating to competitions."
+   },
+   "user_rights": {
+       "title": "User rights.",
+       "text": "You encounter a problem relating to the rights of a user."
+   }
+},
+"progress": "But, you know, I don’t think there’s a good situation or a bad situation. If I were to summarize my life with you today, I would say that it was first of all meetings, people who reached out to me, perhaps at a time when I could not, when I was alone at home. And it is rather curious to think that chance and encounters forge a destiny… Because when you have a taste for something, when you have a taste for something well done, the beautiful gesture, sometimes you do not find the interlocutor opposite, I would say, the mirror that helps you move forward. So this is not my case, as I said, since I, on the contrary, was able to; and I say thank you to life, I say thank you to it, I sing life, I dance life… I am only love! And finally, when many people today tell me, But how do you get this humanity? , well I answer them very simply, I tell them that it is this taste of love, this taste therefore that has pushed me today to undertake a mechanical construction, but tomorrow, who knows, perhaps only to put myself at the service of the community, to make the gift, the gift of self…"
+}

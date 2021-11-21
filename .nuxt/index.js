@@ -14,6 +14,9 @@ import { createStore } from './store.js'
 /* Plugins */
 
 import nuxt_plugin_plugin_9ddc8ce0 from 'nuxt_plugin_plugin_9ddc8ce0' // Source: ./components/plugin.js (mode: 'all')
+import nuxt_plugin_pluginutils_0b865b56 from 'nuxt_plugin_pluginutils_0b865b56' // Source: ./nuxt-i18n/plugin.utils.js (mode: 'all')
+import nuxt_plugin_pluginrouting_14521e60 from 'nuxt_plugin_pluginrouting_14521e60' // Source: ./nuxt-i18n/plugin.routing.js (mode: 'all')
+import nuxt_plugin_pluginmain_3832690f from 'nuxt_plugin_pluginmain_3832690f' // Source: ./nuxt-i18n/plugin.main.js (mode: 'all')
 import nuxt_plugin_pluginserver_1fda7bd6 from 'nuxt_plugin_pluginserver_1fda7bd6' // Source: ./color-mode/plugin.server.js (mode: 'server')
 import nuxt_plugin_pluginclient_8bbdeb64 from 'nuxt_plugin_pluginclient_8bbdeb64' // Source: ./color-mode/plugin.client.js (mode: 'client')
 
@@ -214,6 +217,18 @@ async function createApp(ssrContext, config = {}) {
 
   if (typeof nuxt_plugin_plugin_9ddc8ce0 === 'function') {
     await nuxt_plugin_plugin_9ddc8ce0(app.context, inject)
+  }
+
+  if (typeof nuxt_plugin_pluginutils_0b865b56 === 'function') {
+    await nuxt_plugin_pluginutils_0b865b56(app.context, inject)
+  }
+
+  if (typeof nuxt_plugin_pluginrouting_14521e60 === 'function') {
+    await nuxt_plugin_pluginrouting_14521e60(app.context, inject)
+  }
+
+  if (typeof nuxt_plugin_pluginmain_3832690f === 'function') {
+    await nuxt_plugin_pluginmain_3832690f(app.context, inject)
   }
 
   if (process.server && typeof nuxt_plugin_pluginserver_1fda7bd6 === 'function') {
