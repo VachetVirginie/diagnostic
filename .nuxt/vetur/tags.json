@@ -1,44 +1,8 @@
 {
-  "AboutClientSingle": {
-    "description": "Auto imported from components/AboutClientSingle.vue"
-  },
-  "AboutCounter": {
-    "description": "Auto imported from components/AboutCounter.vue"
-  },
-  "AboutMe": {
-    "description": "Auto imported from components/AboutMe.vue"
-  },
-  "AppBanner": {
-    "description": "Auto imported from components/AppBanner.vue"
-  },
   "AppFooter": {
     "description": "Auto imported from components/AppFooter.vue"
   },
   "AppHeader": {
     "description": "Auto imported from components/AppHeader.vue"
-  },
-  "AppNavigation": {
-    "description": "Auto imported from components/AppNavigation.vue"
-  },
-  "ContactDetails": {
-    "description": "Auto imported from components/ContactDetails.vue"
-  },
-  "ContactForm": {
-    "description": "Auto imported from components/ContactForm.vue"
-  },
-  "DeveloperDarkIllustration": {
-    "description": "Auto imported from components/DeveloperDarkIllustration.vue"
-  },
-  "DeveloperLightIllustration": {
-    "description": "Auto imported from components/DeveloperLightIllustration.vue"
-  },
-  "Hero": {
-    "description": "Auto imported from components/Hero.vue"
-  },
-  "ProjectsFilter": {
-    "description": "Auto imported from components/ProjectsFilter.vue"
-  },
-  "ProjectsGrid": {
-    "description": "Auto imported from components/ProjectsGrid.vue"
   }
 }

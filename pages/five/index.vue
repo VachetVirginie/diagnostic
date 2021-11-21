@@ -17,7 +17,7 @@
             </div>
             <div class="flex-grow">
               <p class="leading-relaxed text-base">{{$t('_five.loader.text')}}</p>
-              <a class="mt-3 text-indigo-500 inline-flex items-center"> <NuxtLink :to="localePath('/five')">{{$t('_commons.learn_more')}}</NuxtLink>
+              <a class="mt-3 text-indigo-500 inline-flex items-center"> <NuxtLink :to="localePath('')">{{$t('_commons.learn_more')}}</NuxtLink>
                 <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-4 h-4 ml-2" viewBox="0 0 24 24">
                   <path d="M5 12h14M12 5l7 7-7 7"></path>
                 </svg>
@@ -37,7 +37,7 @@
             </div>
             <div class="flex-grow">
               <p class="leading-relaxed text-base">{{$t('_five.hightlight.text')}}</p>
-              <a class="mt-3 text-indigo-500 inline-flex items-center"><NuxtLink :to="localePath('/five')">{{$t('_commons.learn_more')}}</NuxtLink>
+              <a class="mt-3 text-indigo-500 inline-flex items-center"><NuxtLink :to="localePath('')">{{$t('_commons.learn_more')}}</NuxtLink>
                 <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-4 h-4 ml-2" viewBox="0 0 24 24">
                   <path d="M5 12h14M12 5l7 7-7 7"></path>
                 </svg>
@@ -57,7 +57,7 @@
             </div>
             <div class="flex-grow">
               <p class="leading-relaxed text-base">{{$t('_commons.session.find_session.text')}}</p>
-              <a class="mt-3 text-indigo-500 inline-flex items-center"><NuxtLink :to="localePath('/five')">{{$t('_commons.learn_more')}}</NuxtLink>
+              <a class="mt-3 text-indigo-500 inline-flex items-center"><NuxtLink :to="localePath('')">{{$t('_commons.learn_more')}}</NuxtLink>
                 <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-4 h-4 ml-2" viewBox="0 0 24 24">
                   <path d="M5 12h14M12 5l7 7-7 7"></path>
                 </svg>

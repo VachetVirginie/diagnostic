@@ -23,19 +23,19 @@
             mb-5
           "
         >
-          Autres ressources
+          {{ $t('_commons.resources')}}
         </p>
         <ul class="flex gap-4 sm:gap-8">
           <a
             href="https://lacefor.netlify.app."
             class="
-              text-gray-400
+              text-white
               hover:text-indigo-500
               dark:hover:text-indigo-400
               cursor-pointer
               rounded-lg
-              bg-gray-50
-              dark:bg-ternary-dark
+              bg-indigo-500
+              dark:bg-indigo-700
               hover:bg-gray-100
               shadow-sm∫
               p-4
