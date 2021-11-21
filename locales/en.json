@@ -3,7 +3,7 @@
         "session": {
             "find_session": {
                 "title": "Find a session.",
-                "text": "You cannot find a session."
+                "text": "You cannot find a finished session. (status = played)"
             }
         },
         "learn_more": "Learn more",
