@@ -9,8 +9,8 @@
         <NuxtLink to="/">Home</NuxtLink>
       </a>
   <div class="title-font text-xl font-medium text-primary-dark dark:text-primary-light">
-      <nuxt-link :to="switchLocalePath('fr')">Francais</nuxt-link>
-      <nuxt-link :to="switchLocalePath('en')">English</nuxt-link>
+      <nuxt-link :to="switchLocalePath('fr')">🇫🇷</nuxt-link>
+      <nuxt-link :to="switchLocalePath('en')">🇬🇧</nuxt-link>
   </div>
       <!-- Header right section buttons start -->
         <button
