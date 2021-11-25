@@ -59,6 +59,10 @@
             "title": "Serveur IA.",
             "text": "Vous rencontrez un probleme avec le serveur IA."
         },
+        "camera": {
+            "title": "Cameras.",
+            "text": "Vous rencontrez un probleme avec les cameras."
+        },
         "problems": {
             "ia_server": {
                 "title": "Problemes serveur IA.",
@@ -97,7 +101,20 @@
                     "title": "But non validé.",
                     "text": "Les buts inscrits ne sont pas valides en bdd",
                     "solution": {
-                        "step 1": ""
+                        "step_1": ""
+                    }
+                }
+            },
+            "camera": {
+                "title": "Problemes camera.",
+                "camera_down": {
+                    "title": "Verifier si la camera est down",
+                    "text": "Vous souhaitez verifier si une des cameras est down?",
+                    "solution": {
+                        "step_1": "Allez sur le serveur web",
+                        "step_2": "Recuperer l'adresse ip de la camera dans la bdd (dans le champs camera du terrain)",
+                        "step_3": "Collez le dans le navigateur si une interface s'affiche elle n'est pas down",
+                        "step_4": "Pour vous connecter et avoir acces au flux les identifiants sont: admin et ngtv@NGTV"
                     }
                 }
             }

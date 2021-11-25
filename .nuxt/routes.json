@@ -3,120 +3,168 @@
     "name": "boo___fr",
     "path": "/boo",
     "component": "/Users/vivi./Dev/diagnostic/pages/boo/index.vue",
-    "chunkName": "pages/boo/index"
+    "chunkName": "pages/boo/index",
+    "_name": "_d9012e2a"
   },
   {
     "name": "index___en",
     "path": "/en",
     "component": "/Users/vivi./Dev/diagnostic/pages/index.vue",
-    "chunkName": "pages/index"
+    "chunkName": "pages/index",
+    "_name": "_b3f73010"
   },
   {
     "name": "five___fr",
     "path": "/five",
     "component": "/Users/vivi./Dev/diagnostic/pages/five/index.vue",
-    "chunkName": "pages/five/index"
+    "chunkName": "pages/five/index",
+    "_name": "_2b44ab02"
   },
   {
     "name": "mobile___fr",
     "path": "/mobile",
     "component": "/Users/vivi./Dev/diagnostic/pages/mobile/index.vue",
-    "chunkName": "pages/mobile/index"
+    "chunkName": "pages/mobile/index",
+    "_name": "_504093ef"
   },
   {
     "name": "pedro___fr",
     "path": "/pedro",
     "component": "/Users/vivi./Dev/diagnostic/pages/pedro/index.vue",
-    "chunkName": "pages/pedro/index"
+    "chunkName": "pages/pedro/index",
+    "_name": "_983ffa96"
   },
   {
     "name": "boo___en",
     "path": "/en/boo",
     "component": "/Users/vivi./Dev/diagnostic/pages/boo/index.vue",
-    "chunkName": "pages/boo/index"
+    "chunkName": "pages/boo/index",
+    "_name": "_d9012e2a"
   },
   {
     "name": "five___en",
     "path": "/en/five",
     "component": "/Users/vivi./Dev/diagnostic/pages/five/index.vue",
-    "chunkName": "pages/five/index"
+    "chunkName": "pages/five/index",
+    "_name": "_2b44ab02"
   },
   {
     "name": "mobile___en",
     "path": "/en/mobile",
     "component": "/Users/vivi./Dev/diagnostic/pages/mobile/index.vue",
-    "chunkName": "pages/mobile/index"
+    "chunkName": "pages/mobile/index",
+    "_name": "_504093ef"
   },
   {
     "name": "pedro___en",
     "path": "/en/pedro",
     "component": "/Users/vivi./Dev/diagnostic/pages/pedro/index.vue",
-    "chunkName": "pages/pedro/index"
+    "chunkName": "pages/pedro/index",
+    "_name": "_983ffa96"
+  },
+  {
+    "name": "pedro-camera___fr",
+    "path": "/pedro/camera",
+    "component": "/Users/vivi./Dev/diagnostic/pages/pedro/camera/index.vue",
+    "chunkName": "pages/pedro/camera/index",
+    "_name": "_47a20555"
   },
   {
     "name": "pedro-ia___fr",
     "path": "/pedro/ia",
     "component": "/Users/vivi./Dev/diagnostic/pages/pedro/ia/index.vue",
-    "chunkName": "pages/pedro/ia/index"
+    "chunkName": "pages/pedro/ia/index",
+    "_name": "_6c70ae08"
   },
   {
     "name": "pedro-interface___fr",
     "path": "/pedro/interface",
     "component": "/Users/vivi./Dev/diagnostic/pages/pedro/interface/index.vue",
-    "chunkName": "pages/pedro/interface/index"
+    "chunkName": "pages/pedro/interface/index",
+    "_name": "_51011f9f"
   },
   {
     "name": "pedro-server___fr",
     "path": "/pedro/server",
     "component": "/Users/vivi./Dev/diagnostic/pages/pedro/server/index.vue",
-    "chunkName": "pages/pedro/server/index"
+    "chunkName": "pages/pedro/server/index",
+    "_name": "_f13f381a"
+  },
+  {
+    "name": "pedro-camera___en",
+    "path": "/en/pedro/camera",
+    "component": "/Users/vivi./Dev/diagnostic/pages/pedro/camera/index.vue",
+    "chunkName": "pages/pedro/camera/index",
+    "_name": "_47a20555"
   },
   {
     "name": "pedro-ia___en",
     "path": "/en/pedro/ia",
     "component": "/Users/vivi./Dev/diagnostic/pages/pedro/ia/index.vue",
-    "chunkName": "pages/pedro/ia/index"
+    "chunkName": "pages/pedro/ia/index",
+    "_name": "_6c70ae08"
   },
   {
     "name": "pedro-interface___en",
     "path": "/en/pedro/interface",
     "component": "/Users/vivi./Dev/diagnostic/pages/pedro/interface/index.vue",
-    "chunkName": "pages/pedro/interface/index"
+    "chunkName": "pages/pedro/interface/index",
+    "_name": "_51011f9f"
   },
   {
     "name": "pedro-server___en",
     "path": "/en/pedro/server",
     "component": "/Users/vivi./Dev/diagnostic/pages/pedro/server/index.vue",
-    "chunkName": "pages/pedro/server/index"
+    "chunkName": "pages/pedro/server/index",
+    "_name": "_f13f381a"
+  },
+  {
+    "name": "pedro-camera-cameradown___fr",
+    "path": "/pedro/camera/cameradown",
+    "component": "/Users/vivi./Dev/diagnostic/pages/pedro/camera/cameradown.vue",
+    "chunkName": "pages/pedro/camera/cameradown",
+    "_name": "_e4568758"
   },
   {
     "name": "pedro-interface-butNonValide___fr",
     "path": "/pedro/interface/butNonValide",
     "component": "/Users/vivi./Dev/diagnostic/pages/pedro/interface/butNonValide.vue",
-    "chunkName": "pages/pedro/interface/butNonValide"
+    "chunkName": "pages/pedro/interface/butNonValide",
+    "_name": "_e2ea2e50"
   },
   {
     "name": "pedro-interface-pageblanche___fr",
     "path": "/pedro/interface/pageblanche",
     "component": "/Users/vivi./Dev/diagnostic/pages/pedro/interface/pageblanche.vue",
-    "chunkName": "pages/pedro/interface/pageblanche"
+    "chunkName": "pages/pedro/interface/pageblanche",
+    "_name": "_093ebe32"
+  },
+  {
+    "name": "pedro-camera-cameradown___en",
+    "path": "/en/pedro/camera/cameradown",
+    "component": "/Users/vivi./Dev/diagnostic/pages/pedro/camera/cameradown.vue",
+    "chunkName": "pages/pedro/camera/cameradown",
+    "_name": "_e4568758"
   },
   {
     "name": "pedro-interface-butNonValide___en",
     "path": "/en/pedro/interface/butNonValide",
     "component": "/Users/vivi./Dev/diagnostic/pages/pedro/interface/butNonValide.vue",
-    "chunkName": "pages/pedro/interface/butNonValide"
+    "chunkName": "pages/pedro/interface/butNonValide",
+    "_name": "_e2ea2e50"
   },
   {
     "name": "pedro-interface-pageblanche___en",
     "path": "/en/pedro/interface/pageblanche",
     "component": "/Users/vivi./Dev/diagnostic/pages/pedro/interface/pageblanche.vue",
-    "chunkName": "pages/pedro/interface/pageblanche"
+    "chunkName": "pages/pedro/interface/pageblanche",
+    "_name": "_093ebe32"
   },
   {
     "name": "index___fr",
     "path": "/",
     "component": "/Users/vivi./Dev/diagnostic/pages/index.vue",
-    "chunkName": "pages/index"
+    "chunkName": "pages/index",
+    "_name": "_b3f73010"
   }
 ]

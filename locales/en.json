@@ -59,6 +59,10 @@
             "title": "IA Server.",
             "text": "You are experiencing a problem with the AI server."
         },
+        "camera": {
+            "title": "Cameras.",
+            "text": "Vous rencontrez un probleme avec les cameras."
+        },
         "problems": {
             "ia_server": {
                 "title": "IA Server problems.",
@@ -98,6 +102,19 @@
                     "text": "Goals wich are added are not saved in the database",
                     "solution": {
                         "step 1": ""
+                    }
+                }
+            },
+            "camera": {
+                "title": "Problemes camera.",
+                "camera_down": {
+                    "title": "Verifier si la camera est down",
+                    "text": "Vous souhaitez verifier si une des cameras est down?",
+                    "solution": {
+                        "step_1": "Go to the web server",
+                        "step_2": "Recover the IP address of the camera in the database (in the field camera field)",
+                        "step_3": "Paste it in the browser if an interface is displayed it is not down",
+                        "step_4": "To connect and have access to the stream, the identifiers are: admin and ngtv @ NGTV"
                     }
                 }
             }

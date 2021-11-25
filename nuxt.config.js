@@ -46,7 +46,7 @@ export default {
           name: 'Francais',
           code: 'fr',
           iso: 'fr-FR',
-          file: 'fr.json'
+          file: 'fr.json',
         },
         {
           name: 'English',

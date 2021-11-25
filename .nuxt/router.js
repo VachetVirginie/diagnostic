@@ -9,9 +9,11 @@ const _b3f73010 = () => interopDefault(import('../pages/index.vue' /* webpackChu
 const _2b44ab02 = () => interopDefault(import('../pages/five/index.vue' /* webpackChunkName: "pages/five/index" */))
 const _504093ef = () => interopDefault(import('../pages/mobile/index.vue' /* webpackChunkName: "pages/mobile/index" */))
 const _983ffa96 = () => interopDefault(import('../pages/pedro/index.vue' /* webpackChunkName: "pages/pedro/index" */))
+const _47a20555 = () => interopDefault(import('../pages/pedro/camera/index.vue' /* webpackChunkName: "pages/pedro/camera/index" */))
 const _6c70ae08 = () => interopDefault(import('../pages/pedro/ia/index.vue' /* webpackChunkName: "pages/pedro/ia/index" */))
 const _51011f9f = () => interopDefault(import('../pages/pedro/interface/index.vue' /* webpackChunkName: "pages/pedro/interface/index" */))
 const _f13f381a = () => interopDefault(import('../pages/pedro/server/index.vue' /* webpackChunkName: "pages/pedro/server/index" */))
+const _e4568758 = () => interopDefault(import('../pages/pedro/camera/cameradown.vue' /* webpackChunkName: "pages/pedro/camera/cameradown" */))
 const _e2ea2e50 = () => interopDefault(import('../pages/pedro/interface/butNonValide.vue' /* webpackChunkName: "pages/pedro/interface/butNonValide" */))
 const _093ebe32 = () => interopDefault(import('../pages/pedro/interface/pageblanche.vue' /* webpackChunkName: "pages/pedro/interface/pageblanche" */))
 
@@ -63,6 +65,10 @@ export const routerOptions = {
     component: _983ffa96,
     name: "pedro___en"
   }, {
+    path: "/pedro/camera",
+    component: _47a20555,
+    name: "pedro-camera___fr"
+  }, {
     path: "/pedro/ia",
     component: _6c70ae08,
     name: "pedro-ia___fr"
@@ -74,6 +80,10 @@ export const routerOptions = {
     path: "/pedro/server",
     component: _f13f381a,
     name: "pedro-server___fr"
+  }, {
+    path: "/en/pedro/camera",
+    component: _47a20555,
+    name: "pedro-camera___en"
   }, {
     path: "/en/pedro/ia",
     component: _6c70ae08,
@@ -87,6 +97,10 @@ export const routerOptions = {
     component: _f13f381a,
     name: "pedro-server___en"
   }, {
+    path: "/pedro/camera/cameradown",
+    component: _e4568758,
+    name: "pedro-camera-cameradown___fr"
+  }, {
     path: "/pedro/interface/butNonValide",
     component: _e2ea2e50,
     name: "pedro-interface-butNonValide___fr"
@@ -94,6 +108,10 @@ export const routerOptions = {
     path: "/pedro/interface/pageblanche",
     component: _093ebe32,
     name: "pedro-interface-pageblanche___fr"
+  }, {
+    path: "/en/pedro/camera/cameradown",
+    component: _e4568758,
+    name: "pedro-camera-cameradown___en"
   }, {
     path: "/en/pedro/interface/butNonValide",
     component: _e2ea2e50,
