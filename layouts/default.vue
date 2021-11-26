@@ -24,7 +24,7 @@ export default {
 
 <style>
 .vue-back-to-top {
-  @apply p-2 sm:p-4 bg-indigo-500 hover:bg-indigo-600 text-white;
+  @apply p-2 sm:p-4 bg-purple-500 hover:bg-purple-600 text-white;
   border-radius: 50%;
   font-size: 22px;
   line-height: 22px;

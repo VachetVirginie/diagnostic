@@ -9,6 +9,7 @@ const _b3f73010 = () => interopDefault(import('../pages/index.vue' /* webpackChu
 const _2b44ab02 = () => interopDefault(import('../pages/five/index.vue' /* webpackChunkName: "pages/five/index" */))
 const _504093ef = () => interopDefault(import('../pages/mobile/index.vue' /* webpackChunkName: "pages/mobile/index" */))
 const _983ffa96 = () => interopDefault(import('../pages/pedro/index.vue' /* webpackChunkName: "pages/pedro/index" */))
+const _0d2a5776 = () => interopDefault(import('../pages/five/tabletcode.vue' /* webpackChunkName: "pages/five/tabletcode" */))
 const _47a20555 = () => interopDefault(import('../pages/pedro/camera/index.vue' /* webpackChunkName: "pages/pedro/camera/index" */))
 const _6c70ae08 = () => interopDefault(import('../pages/pedro/ia/index.vue' /* webpackChunkName: "pages/pedro/ia/index" */))
 const _51011f9f = () => interopDefault(import('../pages/pedro/interface/index.vue' /* webpackChunkName: "pages/pedro/interface/index" */))
@@ -65,6 +66,10 @@ export const routerOptions = {
     component: _983ffa96,
     name: "pedro___en"
   }, {
+    path: "/five/tabletcode",
+    component: _0d2a5776,
+    name: "five-tabletcode___fr"
+  }, {
     path: "/pedro/camera",
     component: _47a20555,
     name: "pedro-camera___fr"
@@ -80,6 +85,10 @@ export const routerOptions = {
     path: "/pedro/server",
     component: _f13f381a,
     name: "pedro-server___fr"
+  }, {
+    path: "/en/five/tabletcode",
+    component: _0d2a5776,
+    name: "five-tabletcode___en"
   }, {
     path: "/en/pedro/camera",
     component: _47a20555,

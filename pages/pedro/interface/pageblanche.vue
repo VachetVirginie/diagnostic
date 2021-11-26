@@ -7,7 +7,7 @@
                 <ul class="space-y-12">
                     <li class="flex -mx-4">
                         <div class="px-4">
-                            <span class="flex w-16 h-16 mx-auto items-center justify-center text-2xl font-bold font-heading rounded-full bg-indigo-50 text-indigo-600">
+                            <span class="flex w-16 h-16 mx-auto items-center justify-center text-2xl font-bold font-heading rounded-full bg-purple-50 text-purple-600">
                                 1
                             </span>
                         </div>
@@ -22,7 +22,7 @@
                     </li>
                     <li class="flex -mx-4">
                         <div class="px-4">
-                            <span class="flex w-16 h-16 mx-auto items-center justify-center text-2xl font-bold font-heading rounded-full bg-indigo-50 text-indigo-600">
+                            <span class="flex w-16 h-16 mx-auto items-center justify-center text-2xl font-bold font-heading rounded-full bg-purple-50 text-purple-600">
                                 2
                             </span>
                         </div>
@@ -37,7 +37,7 @@
                     </li>
                     <li class="flex -mx-4">
                         <div class="px-4">
-                            <span class="flex w-16 h-16 mx-auto items-center justify-center text-2xl font-bold font-heading rounded-full bg-indigo-50 text-indigo-600">
+                            <span class="flex w-16 h-16 mx-auto items-center justify-center text-2xl font-bold font-heading rounded-full bg-purple-50 text-purple-600">
                                 3
                             </span>
                         </div>
@@ -56,7 +56,7 @@
                 <ul class="space-y-12">
                     <li class="flex -mx-4">
                         <div class="px-4">
-                            <span class="flex w-16 h-16 mx-auto items-center justify-center text-2xl font-bold font-heading rounded-full bg-indigo-50 text-indigo-600">
+                            <span class="flex w-16 h-16 mx-auto items-center justify-center text-2xl font-bold font-heading rounded-full bg-purple-50 text-purple-600">
                                 4
                             </span>
                         </div>
@@ -71,7 +71,7 @@
                     </li>
                     <li class="flex -mx-4">
                         <div class="px-4">
-                            <span class="flex w-16 h-16 mx-auto items-center justify-center text-2xl font-bold font-heading rounded-full bg-indigo-50 text-indigo-600">
+                            <span class="flex w-16 h-16 mx-auto items-center justify-center text-2xl font-bold font-heading rounded-full bg-purple-50 text-purple-600">
                                 5
                             </span>
                         </div>
@@ -86,7 +86,7 @@
                     </li>
                     <li class="flex -mx-4">
                         <div class="px-4">
-                            <span class="flex w-16 h-16 mx-auto items-center justify-center text-2xl font-bold font-heading rounded-full bg-indigo-50 text-indigo-600">
+                            <span class="flex w-16 h-16 mx-auto items-center justify-center text-2xl font-bold font-heading rounded-full bg-purple-50 text-purple-600">
                                 6
                             </span>
                         </div>

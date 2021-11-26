@@ -40,9 +40,21 @@
             "title": "The loader runs in a loop.",
             "text": "An interface is locked on the loop loader."
         },
-        "hightlight": {
-            "title": "HightLight Tv.",
-            "text": "You encounter a problem relating to hightLight Tv"
+        "tablet": {
+            "title": "Arbitration tablet.",
+            "text": "You encounter a problem relating to arbitration tablet",
+            "problems": {
+                "title": "Tablet problems.",
+                "tablet": {
+                    "title": "Tablet code",
+                    "text": "Can't find the tablet code",
+                    "solution": {
+                        "step1": "Run application",
+                        "step2": "first code: NGTV@NGTV",
+                        "step3": "Enter the code at the bottom of the tablet otherwise it is made up of 6 digits: id su sport center + 01 or 02"
+                    }
+                }
+            }
         }
     },
     "_pedro": {

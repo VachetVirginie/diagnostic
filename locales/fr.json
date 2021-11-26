@@ -43,6 +43,22 @@
         "hightlight": {
             "title": "HightLight Tv.",
             "text": "Vous rencontrez un probleme relatif a l'hightLight Tv."
+        },
+        "tablet": {
+            "title": "Tablette d'arbitrage.",
+            "text": "Vous rencontrez un probleme avec la tablette d'arbitrage",
+            "problems": {
+                "title": "Tablet problems.",
+                "tablet": {
+                    "title": "Code",
+                    "text": "Can't find the tablet code",
+                    "solution": {
+                        "step1": "Lancer l'application",
+                        "step2": "premier code: NGTV@NGTV",
+                        "step3": "rentrez le code present au bas de la tablette sinon il est compose de 6 chiffres: id su sport center + 01 ou 02"
+                    }
+                }
+            }
         }
     },
     "_pedro": {

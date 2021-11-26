@@ -30,12 +30,12 @@
             href="https://lacefor.netlify.app."
             class="
               text-white
-              hover:text-indigo-500
-              dark:hover:text-indigo-400
+              hover:text-purple-500
+              dark:hover:text-purple-400
               cursor-pointer
               rounded-lg
-              bg-indigo-500
-              dark:bg-indigo-700
+              bg-purple-500
+              dark:bg-purple-700
               hover:bg-gray-100
               shadow-sm∫
               p-4
