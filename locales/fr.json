@@ -79,6 +79,10 @@
             "title": "Cameras.",
             "text": "Vous rencontrez un probleme avec les cameras."
         },
+        "live": {
+            "title": "Live.",
+            "text": "Vous rencontrez un probleme avec le live streaming."
+        },
         "problems": {
             "ia_server": {
                 "title": "Problemes serveur IA.",
@@ -131,6 +135,19 @@
                         "step_2": "Recuperer l'adresse ip de la camera dans la bdd (dans le champs camera du terrain)",
                         "step_3": "Collez le dans le navigateur si une interface s'affiche elle n'est pas down",
                         "step_4": "Pour vous connecter et avoir acces au flux les identifiants sont: admin et ngtv@NGTV"
+                    }
+                }
+            },
+            "live": {
+                "title": "Problemes avec le live.",
+                "streaming": {
+                    "title": "Live YouTube",
+                    "text": "Le live se lance sur l'interface Pedro mais pas sur YouTube?",
+                    "solution": {
+                        "step_1": "Verifiez que les donnes renseignees sur YouTube soient en adequation avec celle de l'interface:",
+                        "step_2": "Verifiez le type de streaming (Facebook ou YouTube)",
+                        "step_3": "Verifiez la clef de streaming",
+                        "step_4": "Si les clefs different recuperer celle de Youtube et mettez la sur Pedro"
                     }
                 }
             }

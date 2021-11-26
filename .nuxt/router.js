@@ -13,10 +13,12 @@ const _0d2a5776 = () => interopDefault(import('../pages/five/tabletcode.vue' /* 
 const _47a20555 = () => interopDefault(import('../pages/pedro/camera/index.vue' /* webpackChunkName: "pages/pedro/camera/index" */))
 const _6c70ae08 = () => interopDefault(import('../pages/pedro/ia/index.vue' /* webpackChunkName: "pages/pedro/ia/index" */))
 const _51011f9f = () => interopDefault(import('../pages/pedro/interface/index.vue' /* webpackChunkName: "pages/pedro/interface/index" */))
+const _b52e10c8 = () => interopDefault(import('../pages/pedro/live/index.vue' /* webpackChunkName: "pages/pedro/live/index" */))
 const _f13f381a = () => interopDefault(import('../pages/pedro/server/index.vue' /* webpackChunkName: "pages/pedro/server/index" */))
 const _e4568758 = () => interopDefault(import('../pages/pedro/camera/cameradown.vue' /* webpackChunkName: "pages/pedro/camera/cameradown" */))
 const _e2ea2e50 = () => interopDefault(import('../pages/pedro/interface/butNonValide.vue' /* webpackChunkName: "pages/pedro/interface/butNonValide" */))
 const _093ebe32 = () => interopDefault(import('../pages/pedro/interface/pageblanche.vue' /* webpackChunkName: "pages/pedro/interface/pageblanche" */))
+const _249417ed = () => interopDefault(import('../pages/pedro/live/streamyoutube.vue' /* webpackChunkName: "pages/pedro/live/streamyoutube" */))
 
 const emptyFn = () => {}
 
@@ -82,6 +84,10 @@ export const routerOptions = {
     component: _51011f9f,
     name: "pedro-interface___fr"
   }, {
+    path: "/pedro/live",
+    component: _b52e10c8,
+    name: "pedro-live___fr"
+  }, {
     path: "/pedro/server",
     component: _f13f381a,
     name: "pedro-server___fr"
@@ -102,6 +108,10 @@ export const routerOptions = {
     component: _51011f9f,
     name: "pedro-interface___en"
   }, {
+    path: "/en/pedro/live",
+    component: _b52e10c8,
+    name: "pedro-live___en"
+  }, {
     path: "/en/pedro/server",
     component: _f13f381a,
     name: "pedro-server___en"
@@ -118,6 +128,10 @@ export const routerOptions = {
     component: _093ebe32,
     name: "pedro-interface-pageblanche___fr"
   }, {
+    path: "/pedro/live/streamyoutube",
+    component: _249417ed,
+    name: "pedro-live-streamyoutube___fr"
+  }, {
     path: "/en/pedro/camera/cameradown",
     component: _e4568758,
     name: "pedro-camera-cameradown___en"
@@ -129,6 +143,10 @@ export const routerOptions = {
     path: "/en/pedro/interface/pageblanche",
     component: _093ebe32,
     name: "pedro-interface-pageblanche___en"
+  }, {
+    path: "/en/pedro/live/streamyoutube",
+    component: _249417ed,
+    name: "pedro-live-streamyoutube___en"
   }, {
     path: "/",
     component: _b3f73010,

@@ -73,7 +73,11 @@
         },
         "camera": {
             "title": "Cameras.",
-            "text": "Vous rencontrez un probleme avec les cameras."
+            "text": "You encounter a problem with the cameras."
+        },
+        "live": {
+            "title": "Live.",
+            "text": "You encounter a problem with live streaming."
         },
         "problems": {
             "ia_server": {
@@ -127,6 +131,19 @@
                         "step_2": "Recover the IP address of the camera in the database (in the field camera field)",
                         "step_3": "Paste it in the browser if an interface is displayed it is not down",
                         "step_4": "To connect and have access to the stream, the identifiers are: admin and ngtv @ NGTV"
+                    }
+                }
+            },
+            "live": {
+                "title": "Problems with the live.",
+                "streaming": {
+                    "title": "Live YouTube",
+                    "text": "The live starts on the Pedro interface but not on YouTube?",
+                    "solution": {
+                        "step_1": "Check that the data provided on YouTube is in adequacy with that of the interface:",
+                        "step_2": "Check the type of streaming (Facebook or YouTube)",
+                        "step_3": "Check the streaming key",
+                        "step_4": "If the keys are different, get the one from Youtube and put it on Pedro"
                     }
                 }
             }
