@@ -4,5 +4,8 @@
   },
   "AppHeader": {
     "description": "Auto imported from components/AppHeader.vue"
+  },
+  "HomeCard": {
+    "description": "Auto imported from components/HomeCard.vue"
   }
 }

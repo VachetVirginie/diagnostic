@@ -1,5 +1,6 @@
 export { default as AppFooter } from '../../components/AppFooter.vue'
 export { default as AppHeader } from '../../components/AppHeader.vue'
+export { default as HomeCard } from '../../components/HomeCard.vue'
 
 // nuxt/nuxt.js#8607
 function wrapFunctional(options) {
