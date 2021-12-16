@@ -13,34 +13,9 @@
       <nuxt-link :to="switchLocalePath('en')">🇬🇧</nuxt-link>
   </div>
       <!-- Header right section buttons start -->
-        <button
-          @click="themeSwticher"
-          class="
-            ml-8
-            bg-secondary-light
-            dark:bg-primary-dark
-            px-3
-            py-2
-            rounded-xl
-            cursor-pointer
-          "
-        >
-          <i
-            v-if="$colorMode.value == 'dark'"
-            v-html="iconSvg"
-            class="text-red hover:text-gray-400 w-5"
-          ></i>
-          <i
-            v-else
-            v-html="iconSvg"
-            class="
-              text-red
-              hover:text-gray-400
-              dark:text-liText-ternary-light
-              dark:hover:text-liBorder-primary-light
-              w-5
-            "
-          ></i>
+        <button @click="themeSwticher" class="ml-8 bg-secondary-light dark:bg-primary-dark px-3 py-2 rounded-xl cursor-pointer">
+          <i v-if="$colorMode.value == 'dark'" v-html="iconSvg" class="text-red hover:text-gray-400 w-5"></i>
+          <i v-else v-html="iconSvg" class="text-red hover:text-gray-400 dark:text-liText-ternary-light dark:hover:text-liBorder-primary-light w-5"></i>
         </button>
       </div>
   </nav>

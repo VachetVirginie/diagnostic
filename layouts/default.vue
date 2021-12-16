@@ -23,13 +23,6 @@ export default {
 </script>
 
 <style>
-.vue-back-to-top {
-  @apply p-2 sm:p-4 bg-red hover:bg-purple-600 text-white;
-  border-radius: 50%;
-  font-size: 22px;
-  line-height: 22px;
-}
-
 .fade-enter-active {
   animation: coming 0.4s;
   animation-delay: 0.2s;
