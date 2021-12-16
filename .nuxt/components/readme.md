@@ -10,3 +10,4 @@ You can directly use them in pages and other components without the need to impo
 - `<AppHeader>` | `<app-header>` (components/AppHeader.vue)
 - `<HomeCard>` | `<home-card>` (components/HomeCard.vue)
 - `<SectionCard>` | `<section-card>` (components/SectionCard.vue)
+- `<Step>` | `<step>` (components/Step.vue)
