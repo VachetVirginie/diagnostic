@@ -1,70 +1,24 @@
 <template>
   <div class="container mx-auto">
-    <div
-      class="
-        innercontent
-        pt-20
-        sm:pt-30
-        pb-8
-        mt-20
-        border-t-2 border-primary-light
-        dark:border-secondary-dark
-      "
-    >
-      <!-- Footer social links start -->
+    <div class="innercontent pt-20 sm:pt-30 pb-8 mt-20 border-t-2 border-red dark:border-red">
       <div class="flex flex-col justify-center items-center mb-12 sm:mb-28">
-        <p
-          class="
-            text-3xl
-            sm:text-4xl
-            font-semibold
-            text-primary-dark
-            dark:text-primary-light
-            mb-5
-          "
-        >
+        <p class="text-3xl sm:text-4xl font-semibold text-primary-dark dark:text-primary-light mb-5">
           {{ $t('_commons.resources')}}
         </p>
         <ul class="flex gap-4 sm:gap-8">
-          <a
-            href="https://lacefor.netlify.app."
-            class="
-              text-white
-              hover:text-purple-500
-              dark:hover:text-purple-400
-              cursor-pointer
-              rounded-lg
-              bg-purple-500
-              dark:bg-purple-700
-              hover:bg-gray-100
-              shadow-sm∫
-              p-4
-            "
-          >
+          <a href="https://lacefor.netlify.app." class="text-white hover:text-red dark:hover:text-red cursor-pointer rounded-lg bg-red dark:red hover:bg-gray-100 shadow-sm∫ p-4">
            FAQ
           </a>
         </ul>
       </div>
-      <!-- Footer social links end -->
-
-      <!-- Footer copyright start -->
       <div class="flex justify-center items-center text-center">
         <div class="text-lg text-ternary-dark dark:text-ternary-light">
           &copy; Copyright {{ copyrightDate }} ❤️
-          <a
-            href="https://github.com/NangialaiStoman/nuxtjs-tailwindcss-portfolio"
-            target="__blank"
-            class="
-              text-secondary-dark
-              dark:text-secondary-light
-              font-medium
-              hover:underline
-            "
-            >Diagnostic Ngtv</a
-          >
+          <a class="text-secondary-dark dark:text-secondary-light font-medium hover:underline">
+            Diagnostic Tool
+            </a>
         </div>
       </div>
-      <!-- Footer copyright end -->
     </div>
   </div>
 </template>

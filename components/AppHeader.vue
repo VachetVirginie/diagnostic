@@ -2,7 +2,7 @@
   <nav id="nav" class="sm:container sm:mx-auto">
     <!-- Header start -->
     <div class="z-10 max-w-screen-lg xl:max-w-screen-xl block flex justify-between sm:items-center py-6">
-      <a class="text-purple-500 inline-flex items-center text-lg">
+      <a class="text-red inline-flex items-center text-lg">
         <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
           <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M11 17l-5-5m0 0l5-5m-5 5h12" />
         </svg>
@@ -29,13 +29,13 @@
           <i
             v-if="$colorMode.value == 'dark'"
             v-html="iconSvg"
-            class="text-gray-200 hover:text-gray-400 w-5"
+            class="text-red hover:text-gray-400 w-5"
           ></i>
           <i
             v-else
             v-html="iconSvg"
             class="
-              text-liText-ternary-dark
+              text-red
               hover:text-gray-400
               dark:text-liText-ternary-light
               dark:hover:text-liBorder-primary-light
