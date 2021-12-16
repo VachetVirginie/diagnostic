@@ -9,12 +9,13 @@ const _b3f73010 = () => interopDefault(import('../pages/index.vue' /* webpackChu
 const _2b44ab02 = () => interopDefault(import('../pages/five/index.vue' /* webpackChunkName: "pages/five/index" */))
 const _504093ef = () => interopDefault(import('../pages/mobile/index.vue' /* webpackChunkName: "pages/mobile/index" */))
 const _983ffa96 = () => interopDefault(import('../pages/pedro/index.vue' /* webpackChunkName: "pages/pedro/index" */))
-const _0d2a5776 = () => interopDefault(import('../pages/five/tabletcode.vue' /* webpackChunkName: "pages/five/tabletcode" */))
+const _e9adf768 = () => interopDefault(import('../pages/five/tablet/index.vue' /* webpackChunkName: "pages/five/tablet/index" */))
 const _47a20555 = () => interopDefault(import('../pages/pedro/camera/index.vue' /* webpackChunkName: "pages/pedro/camera/index" */))
 const _6c70ae08 = () => interopDefault(import('../pages/pedro/ia/index.vue' /* webpackChunkName: "pages/pedro/ia/index" */))
 const _51011f9f = () => interopDefault(import('../pages/pedro/interface/index.vue' /* webpackChunkName: "pages/pedro/interface/index" */))
 const _b52e10c8 = () => interopDefault(import('../pages/pedro/live/index.vue' /* webpackChunkName: "pages/pedro/live/index" */))
 const _f13f381a = () => interopDefault(import('../pages/pedro/server/index.vue' /* webpackChunkName: "pages/pedro/server/index" */))
+const _706015c9 = () => interopDefault(import('../pages/five/tablet/tabletcode.vue' /* webpackChunkName: "pages/five/tablet/tabletcode" */))
 const _e4568758 = () => interopDefault(import('../pages/pedro/camera/cameradown.vue' /* webpackChunkName: "pages/pedro/camera/cameradown" */))
 const _e2ea2e50 = () => interopDefault(import('../pages/pedro/interface/butNonValide.vue' /* webpackChunkName: "pages/pedro/interface/butNonValide" */))
 const _093ebe32 = () => interopDefault(import('../pages/pedro/interface/pageblanche.vue' /* webpackChunkName: "pages/pedro/interface/pageblanche" */))
@@ -68,9 +69,9 @@ export const routerOptions = {
     component: _983ffa96,
     name: "pedro___en"
   }, {
-    path: "/five/tabletcode",
-    component: _0d2a5776,
-    name: "five-tabletcode___fr"
+    path: "/five/tablet",
+    component: _e9adf768,
+    name: "five-tablet___fr"
   }, {
     path: "/pedro/camera",
     component: _47a20555,
@@ -92,9 +93,9 @@ export const routerOptions = {
     component: _f13f381a,
     name: "pedro-server___fr"
   }, {
-    path: "/en/five/tabletcode",
-    component: _0d2a5776,
-    name: "five-tabletcode___en"
+    path: "/en/five/tablet",
+    component: _e9adf768,
+    name: "five-tablet___en"
   }, {
     path: "/en/pedro/camera",
     component: _47a20555,
@@ -116,6 +117,10 @@ export const routerOptions = {
     component: _f13f381a,
     name: "pedro-server___en"
   }, {
+    path: "/five/tablet/tabletcode",
+    component: _706015c9,
+    name: "five-tablet-tabletcode___fr"
+  }, {
     path: "/pedro/camera/cameradown",
     component: _e4568758,
     name: "pedro-camera-cameradown___fr"
@@ -131,6 +136,10 @@ export const routerOptions = {
     path: "/pedro/live/streamyoutube",
     component: _249417ed,
     name: "pedro-live-streamyoutube___fr"
+  }, {
+    path: "/en/five/tablet/tabletcode",
+    component: _706015c9,
+    name: "five-tablet-tabletcode___en"
   }, {
     path: "/en/pedro/camera/cameradown",
     component: _e4568758,

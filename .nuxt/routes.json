@@ -63,11 +63,11 @@
     "_name": "_983ffa96"
   },
   {
-    "name": "five-tabletcode___fr",
-    "path": "/five/tabletcode",
-    "component": "/Users/vivi./Dev/diagnostic/pages/five/tabletcode.vue",
-    "chunkName": "pages/five/tabletcode",
-    "_name": "_0d2a5776"
+    "name": "five-tablet___fr",
+    "path": "/five/tablet",
+    "component": "/Users/vivi./Dev/diagnostic/pages/five/tablet/index.vue",
+    "chunkName": "pages/five/tablet/index",
+    "_name": "_e9adf768"
   },
   {
     "name": "pedro-camera___fr",
@@ -105,11 +105,11 @@
     "_name": "_f13f381a"
   },
   {
-    "name": "five-tabletcode___en",
-    "path": "/en/five/tabletcode",
-    "component": "/Users/vivi./Dev/diagnostic/pages/five/tabletcode.vue",
-    "chunkName": "pages/five/tabletcode",
-    "_name": "_0d2a5776"
+    "name": "five-tablet___en",
+    "path": "/en/five/tablet",
+    "component": "/Users/vivi./Dev/diagnostic/pages/five/tablet/index.vue",
+    "chunkName": "pages/five/tablet/index",
+    "_name": "_e9adf768"
   },
   {
     "name": "pedro-camera___en",
@@ -147,6 +147,13 @@
     "_name": "_f13f381a"
   },
   {
+    "name": "five-tablet-tabletcode___fr",
+    "path": "/five/tablet/tabletcode",
+    "component": "/Users/vivi./Dev/diagnostic/pages/five/tablet/tabletcode.vue",
+    "chunkName": "pages/five/tablet/tabletcode",
+    "_name": "_706015c9"
+  },
+  {
     "name": "pedro-camera-cameradown___fr",
     "path": "/pedro/camera/cameradown",
     "component": "/Users/vivi./Dev/diagnostic/pages/pedro/camera/cameradown.vue",
@@ -173,6 +180,13 @@
     "component": "/Users/vivi./Dev/diagnostic/pages/pedro/live/streamyoutube.vue",
     "chunkName": "pages/pedro/live/streamyoutube",
     "_name": "_249417ed"
+  },
+  {
+    "name": "five-tablet-tabletcode___en",
+    "path": "/en/five/tablet/tabletcode",
+    "component": "/Users/vivi./Dev/diagnostic/pages/five/tablet/tabletcode.vue",
+    "chunkName": "pages/five/tablet/tabletcode",
+    "_name": "_706015c9"
   },
   {
     "name": "pedro-camera-cameradown___en",

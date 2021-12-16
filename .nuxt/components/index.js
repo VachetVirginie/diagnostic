@@ -1,6 +1,7 @@
 export { default as AppFooter } from '../../components/AppFooter.vue'
 export { default as AppHeader } from '../../components/AppHeader.vue'
 export { default as HomeCard } from '../../components/HomeCard.vue'
+export { default as InConstruct } from '../../components/InConstruct.vue'
 export { default as SectionCard } from '../../components/SectionCard.vue'
 export { default as Step } from '../../components/Step.vue'
 

@@ -6,7 +6,7 @@
       </div>
       <div class="flex flex-wrap -m-4">
           <section-card filename="cadenas.png" :h2="$t('_five.loader.title')" :p="$t('_five.loader.text')" :link="localePath('')" :linkText="$t('_commons.learn_more')"/>
-          <section-card filename="tablet.png" :h2="$t('_five.tablet.title')" :p="$t('_five.tablet.text')" link="/five/tabletcode" :linkText="$t('_commons.learn_more')"/>
+          <section-card filename="tablet.png" :h2="$t('_five.tablet.title')" :p="$t('_five.tablet.text')" link="/five/tablet" :linkText="$t('_commons.learn_more')"/>
           <section-card filename="loupe.png" :h2="$t('_commons.session.find_session.title')" :p="$t('_commons.session.find_session.text')" :link="localePath('')" :linkText="$t('_commons.learn_more')"/>
       </div>
     </div>

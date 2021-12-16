@@ -48,10 +48,10 @@
             "title": "Tablette d'arbitrage.",
             "text": "Vous rencontrez un probleme avec la tablette d'arbitrage",
             "problems": {
-                "title": "Tablet problems.",
+                "title": "Problemes concernant les tablettes.",
                 "tablet": {
-                    "title": "Code",
-                    "text": "Can't find the tablet code",
+                    "title": "Vous rencontrez un probleme avec le code",
+                    "text": "Vous ne parvenez pas à trouver le code",
                     "solution": {
                         "step1": "Lancer l'application",
                         "step2": "premier code: NGTV@NGTV",

@@ -8,6 +8,9 @@
   "HomeCard": {
     "description": "Auto imported from components/HomeCard.vue"
   },
+  "InConstruct": {
+    "description": "Auto imported from components/InConstruct.vue"
+  },
   "SectionCard": {
     "description": "Auto imported from components/SectionCard.vue"
   },
