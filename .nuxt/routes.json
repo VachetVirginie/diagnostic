@@ -3,224 +3,192 @@
     "name": "boo___fr",
     "path": "/boo",
     "component": "/Users/vivi./Dev/diagnostic/pages/boo/index.vue",
-    "chunkName": "pages/boo/index",
-    "_name": "_d9012e2a"
+    "chunkName": "pages/boo/index"
   },
   {
     "name": "index___en",
     "path": "/en",
     "component": "/Users/vivi./Dev/diagnostic/pages/index.vue",
-    "chunkName": "pages/index",
-    "_name": "_b3f73010"
+    "chunkName": "pages/index"
   },
   {
     "name": "five___fr",
     "path": "/five",
     "component": "/Users/vivi./Dev/diagnostic/pages/five/index.vue",
-    "chunkName": "pages/five/index",
-    "_name": "_2b44ab02"
+    "chunkName": "pages/five/index"
   },
   {
     "name": "mobile___fr",
     "path": "/mobile",
     "component": "/Users/vivi./Dev/diagnostic/pages/mobile/index.vue",
-    "chunkName": "pages/mobile/index",
-    "_name": "_504093ef"
+    "chunkName": "pages/mobile/index"
   },
   {
     "name": "pedro___fr",
     "path": "/pedro",
     "component": "/Users/vivi./Dev/diagnostic/pages/pedro/index.vue",
-    "chunkName": "pages/pedro/index",
-    "_name": "_983ffa96"
+    "chunkName": "pages/pedro/index"
   },
   {
     "name": "boo___en",
     "path": "/en/boo",
     "component": "/Users/vivi./Dev/diagnostic/pages/boo/index.vue",
-    "chunkName": "pages/boo/index",
-    "_name": "_d9012e2a"
+    "chunkName": "pages/boo/index"
   },
   {
     "name": "five___en",
     "path": "/en/five",
     "component": "/Users/vivi./Dev/diagnostic/pages/five/index.vue",
-    "chunkName": "pages/five/index",
-    "_name": "_2b44ab02"
+    "chunkName": "pages/five/index"
   },
   {
     "name": "mobile___en",
     "path": "/en/mobile",
     "component": "/Users/vivi./Dev/diagnostic/pages/mobile/index.vue",
-    "chunkName": "pages/mobile/index",
-    "_name": "_504093ef"
+    "chunkName": "pages/mobile/index"
   },
   {
     "name": "pedro___en",
     "path": "/en/pedro",
     "component": "/Users/vivi./Dev/diagnostic/pages/pedro/index.vue",
-    "chunkName": "pages/pedro/index",
-    "_name": "_983ffa96"
+    "chunkName": "pages/pedro/index"
   },
   {
     "name": "five-tablet___fr",
     "path": "/five/tablet",
     "component": "/Users/vivi./Dev/diagnostic/pages/five/tablet/index.vue",
-    "chunkName": "pages/five/tablet/index",
-    "_name": "_e9adf768"
+    "chunkName": "pages/five/tablet/index"
   },
   {
     "name": "pedro-camera___fr",
     "path": "/pedro/camera",
     "component": "/Users/vivi./Dev/diagnostic/pages/pedro/camera/index.vue",
-    "chunkName": "pages/pedro/camera/index",
-    "_name": "_47a20555"
+    "chunkName": "pages/pedro/camera/index"
   },
   {
     "name": "pedro-ia___fr",
     "path": "/pedro/ia",
     "component": "/Users/vivi./Dev/diagnostic/pages/pedro/ia/index.vue",
-    "chunkName": "pages/pedro/ia/index",
-    "_name": "_6c70ae08"
+    "chunkName": "pages/pedro/ia/index"
   },
   {
     "name": "pedro-interface___fr",
     "path": "/pedro/interface",
     "component": "/Users/vivi./Dev/diagnostic/pages/pedro/interface/index.vue",
-    "chunkName": "pages/pedro/interface/index",
-    "_name": "_51011f9f"
+    "chunkName": "pages/pedro/interface/index"
   },
   {
     "name": "pedro-live___fr",
     "path": "/pedro/live",
     "component": "/Users/vivi./Dev/diagnostic/pages/pedro/live/index.vue",
-    "chunkName": "pages/pedro/live/index",
-    "_name": "_b52e10c8"
+    "chunkName": "pages/pedro/live/index"
   },
   {
     "name": "pedro-server___fr",
     "path": "/pedro/server",
     "component": "/Users/vivi./Dev/diagnostic/pages/pedro/server/index.vue",
-    "chunkName": "pages/pedro/server/index",
-    "_name": "_f13f381a"
+    "chunkName": "pages/pedro/server/index"
   },
   {
     "name": "five-tablet___en",
     "path": "/en/five/tablet",
     "component": "/Users/vivi./Dev/diagnostic/pages/five/tablet/index.vue",
-    "chunkName": "pages/five/tablet/index",
-    "_name": "_e9adf768"
+    "chunkName": "pages/five/tablet/index"
   },
   {
     "name": "pedro-camera___en",
     "path": "/en/pedro/camera",
     "component": "/Users/vivi./Dev/diagnostic/pages/pedro/camera/index.vue",
-    "chunkName": "pages/pedro/camera/index",
-    "_name": "_47a20555"
+    "chunkName": "pages/pedro/camera/index"
   },
   {
     "name": "pedro-ia___en",
     "path": "/en/pedro/ia",
     "component": "/Users/vivi./Dev/diagnostic/pages/pedro/ia/index.vue",
-    "chunkName": "pages/pedro/ia/index",
-    "_name": "_6c70ae08"
+    "chunkName": "pages/pedro/ia/index"
   },
   {
     "name": "pedro-interface___en",
     "path": "/en/pedro/interface",
     "component": "/Users/vivi./Dev/diagnostic/pages/pedro/interface/index.vue",
-    "chunkName": "pages/pedro/interface/index",
-    "_name": "_51011f9f"
+    "chunkName": "pages/pedro/interface/index"
   },
   {
     "name": "pedro-live___en",
     "path": "/en/pedro/live",
     "component": "/Users/vivi./Dev/diagnostic/pages/pedro/live/index.vue",
-    "chunkName": "pages/pedro/live/index",
-    "_name": "_b52e10c8"
+    "chunkName": "pages/pedro/live/index"
   },
   {
     "name": "pedro-server___en",
     "path": "/en/pedro/server",
     "component": "/Users/vivi./Dev/diagnostic/pages/pedro/server/index.vue",
-    "chunkName": "pages/pedro/server/index",
-    "_name": "_f13f381a"
+    "chunkName": "pages/pedro/server/index"
   },
   {
     "name": "five-tablet-tabletcode___fr",
     "path": "/five/tablet/tabletcode",
     "component": "/Users/vivi./Dev/diagnostic/pages/five/tablet/tabletcode.vue",
-    "chunkName": "pages/five/tablet/tabletcode",
-    "_name": "_706015c9"
+    "chunkName": "pages/five/tablet/tabletcode"
   },
   {
     "name": "pedro-camera-cameradown___fr",
     "path": "/pedro/camera/cameradown",
     "component": "/Users/vivi./Dev/diagnostic/pages/pedro/camera/cameradown.vue",
-    "chunkName": "pages/pedro/camera/cameradown",
-    "_name": "_e4568758"
+    "chunkName": "pages/pedro/camera/cameradown"
   },
   {
     "name": "pedro-interface-butNonValide___fr",
     "path": "/pedro/interface/butNonValide",
     "component": "/Users/vivi./Dev/diagnostic/pages/pedro/interface/butNonValide.vue",
-    "chunkName": "pages/pedro/interface/butNonValide",
-    "_name": "_e2ea2e50"
+    "chunkName": "pages/pedro/interface/butNonValide"
   },
   {
     "name": "pedro-interface-pageblanche___fr",
     "path": "/pedro/interface/pageblanche",
     "component": "/Users/vivi./Dev/diagnostic/pages/pedro/interface/pageblanche.vue",
-    "chunkName": "pages/pedro/interface/pageblanche",
-    "_name": "_093ebe32"
+    "chunkName": "pages/pedro/interface/pageblanche"
   },
   {
     "name": "pedro-live-streamyoutube___fr",
     "path": "/pedro/live/streamyoutube",
     "component": "/Users/vivi./Dev/diagnostic/pages/pedro/live/streamyoutube.vue",
-    "chunkName": "pages/pedro/live/streamyoutube",
-    "_name": "_249417ed"
+    "chunkName": "pages/pedro/live/streamyoutube"
   },
   {
     "name": "five-tablet-tabletcode___en",
     "path": "/en/five/tablet/tabletcode",
     "component": "/Users/vivi./Dev/diagnostic/pages/five/tablet/tabletcode.vue",
-    "chunkName": "pages/five/tablet/tabletcode",
-    "_name": "_706015c9"
+    "chunkName": "pages/five/tablet/tabletcode"
   },
   {
     "name": "pedro-camera-cameradown___en",
     "path": "/en/pedro/camera/cameradown",
     "component": "/Users/vivi./Dev/diagnostic/pages/pedro/camera/cameradown.vue",
-    "chunkName": "pages/pedro/camera/cameradown",
-    "_name": "_e4568758"
+    "chunkName": "pages/pedro/camera/cameradown"
   },
   {
     "name": "pedro-interface-butNonValide___en",
     "path": "/en/pedro/interface/butNonValide",
     "component": "/Users/vivi./Dev/diagnostic/pages/pedro/interface/butNonValide.vue",
-    "chunkName": "pages/pedro/interface/butNonValide",
-    "_name": "_e2ea2e50"
+    "chunkName": "pages/pedro/interface/butNonValide"
   },
   {
     "name": "pedro-interface-pageblanche___en",
     "path": "/en/pedro/interface/pageblanche",
     "component": "/Users/vivi./Dev/diagnostic/pages/pedro/interface/pageblanche.vue",
-    "chunkName": "pages/pedro/interface/pageblanche",
-    "_name": "_093ebe32"
+    "chunkName": "pages/pedro/interface/pageblanche"
   },
   {
     "name": "pedro-live-streamyoutube___en",
     "path": "/en/pedro/live/streamyoutube",
     "component": "/Users/vivi./Dev/diagnostic/pages/pedro/live/streamyoutube.vue",
-    "chunkName": "pages/pedro/live/streamyoutube",
-    "_name": "_249417ed"
+    "chunkName": "pages/pedro/live/streamyoutube"
   },
   {
     "name": "index___fr",
     "path": "/",
     "component": "/Users/vivi./Dev/diagnostic/pages/index.vue",
-    "chunkName": "pages/index",
-    "_name": "_b3f73010"
+    "chunkName": "pages/index"
   }
 ]
