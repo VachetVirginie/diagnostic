@@ -9,3 +9,4 @@ You can directly use them in pages and other components without the need to impo
 - `<AppFooter>` | `<app-footer>` (components/AppFooter.vue)
 - `<AppHeader>` | `<app-header>` (components/AppHeader.vue)
 - `<HomeCard>` | `<home-card>` (components/HomeCard.vue)
+- `<SectionCard>` | `<section-card>` (components/SectionCard.vue)
